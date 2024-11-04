@@ -183,4 +183,6 @@ csdn:https://blog.csdn.net/lhy2014
 刘焕勇，中国科学院软件研究所  
 
 ## TODO
-finetune llama2 with dataset to lawllama2 
+finetune llama2 with dataset to lawllama2 ,see:https://medium.com/@sayedebad.777/scikit-llm-scikit-learn-meets-large-language-models-986ff149abcc
+
+
